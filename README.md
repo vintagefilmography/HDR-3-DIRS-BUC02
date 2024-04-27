@@ -1,4 +1,6 @@
 # HDR-3-DIRS-BUC02  
+![image](https://github.com/vintagefilmography/HDR-3-DIRS-BUC02/assets/48537944/74dfee1c-0abb-4279-8e45-93932d777b2a)
+
 This is a Windows app that interfaces with the Hawkeye camera and
 produces a sequence of bracketed images that can be postprocessed in
 HDR utility.
