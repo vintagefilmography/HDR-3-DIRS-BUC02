@@ -27,3 +27,7 @@ hdr_3exp
 
 Run instructions:
 Check the enclosed manual for the instructions.
+
+Additional HDR info:
+https://blog.miguelgrinberg.com/post/the-quick--dirty-hdr-tutorial-with-free-software
+
